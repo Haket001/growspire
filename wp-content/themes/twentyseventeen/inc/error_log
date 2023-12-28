@@ -1,0 +1,8 @@
+[22-May-2019 10:58:19 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agencygrow/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26
+[22-May-2019 15:35:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/agencygrow/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php:26
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentyseventeen/inc/back-compat.php on line 26

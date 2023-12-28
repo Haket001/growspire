@@ -1,0 +1,8 @@
+[09-Dec-2022 23:06:56 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[10-Dec-2022 00:55:29 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[12-Nov-2023 15:43:49 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[12-Nov-2023 15:43:54 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[12-Nov-2023 15:44:05 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17
+[19-Nov-2023 09:02:35 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-post-format-search-handler.php on line 17
+[19-Nov-2023 09:02:48 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-post-search-handler.php on line 17
+[19-Nov-2023 09:03:01 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Search_Handler' not found in /home/agencygrow/public_html/wp-includes/rest-api/search/class-wp-rest-term-search-handler.php on line 17

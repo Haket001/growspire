@@ -1,0 +1,4 @@
+[11-Dec-2022 06:49:53 Europe/Helsinki] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/agencygrow/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[07-Nov-2023 05:12:35 Europe/Helsinki] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/agencygrow/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[12-Nov-2023 15:40:51 Europe/Helsinki] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/agencygrow/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17
+[19-Nov-2023 09:00:04 Europe/Helsinki] PHP Fatal error:  Class 'WP_HTTP_Response' not found in /home/agencygrow/public_html/wp-includes/rest-api/class-wp-rest-response.php on line 17

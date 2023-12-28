@@ -1,0 +1,12 @@
+[14-Jul-2023 16:12:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/agencygrow/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-admin/includes/admin.php on line 16
+[03-Sep-2023 18:06:02 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/agencygrow/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-admin/includes/admin.php on line 16
+[04-Sep-2023 06:18:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function load_textdomain() in /home/agencygrow/public_html/wp-admin/includes/admin.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-admin/includes/admin.php on line 16

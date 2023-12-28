@@ -1,0 +1,2 @@
+[12-Nov-2023 15:46:44 Europe/Helsinki] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/src/File.php on line 9
+[19-Nov-2023 09:05:53 Europe/Helsinki] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Util' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/src/File.php on line 9

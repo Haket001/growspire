@@ -1,0 +1,400 @@
+[01-Aug-2021 12:08:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[01-Aug-2021 12:09:13 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[01-Aug-2021 12:09:23 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[01-Aug-2021 12:09:42 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[01-Aug-2021 12:09:56 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[28-Aug-2021 21:41:38 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[28-Aug-2021 21:41:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[28-Aug-2021 21:41:42 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[28-Aug-2021 21:41:45 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[28-Aug-2021 21:41:48 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[03-Sep-2021 07:05:46 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[03-Sep-2021 07:05:47 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[03-Sep-2021 07:05:49 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[03-Sep-2021 07:05:50 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[03-Sep-2021 07:05:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-Oct-2021 04:56:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[16-Oct-2021 04:56:40 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[16-Oct-2021 04:56:50 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[16-Oct-2021 04:57:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[16-Oct-2021 04:57:10 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[18-Oct-2021 03:44:50 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[18-Oct-2021 03:44:58 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[18-Oct-2021 03:45:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[18-Oct-2021 03:45:15 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[18-Oct-2021 03:45:24 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[11-Dec-2022 06:38:26 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/align.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/align.php on line 60
+[11-Dec-2022 06:38:31 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[11-Dec-2022 06:38:36 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/colors.php on line 153
+[11-Dec-2022 06:38:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[11-Dec-2022 06:38:46 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[11-Dec-2022 06:38:51 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[11-Dec-2022 06:38:59 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[11-Dec-2022 06:39:02 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[11-Dec-2022 06:39:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[11-Dec-2022 06:39:11 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/typography.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/typography.php on line 206
+[21-Dec-2022 11:51:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[21-Dec-2022 11:51:16 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[21-Dec-2022 11:51:28 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[21-Dec-2022 11:51:37 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[21-Dec-2022 11:51:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[27-Feb-2023 18:06:34 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[27-Feb-2023 18:06:34 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[11-Mar-2023 08:43:05 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[11-Mar-2023 08:43:06 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[20-Mar-2023 12:44:22 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[20-Mar-2023 12:44:25 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[03-Apr-2023 19:52:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[03-Apr-2023 19:52:14 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[05-Apr-2023 20:00:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[05-Apr-2023 20:00:53 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[14-Apr-2023 10:23:05 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[14-Apr-2023 10:23:07 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[17-Apr-2023 11:33:03 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[17-Apr-2023 11:33:06 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[25-Apr-2023 15:58:39 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[25-Apr-2023 15:58:41 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[29-Apr-2023 04:09:56 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[29-Apr-2023 04:09:57 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[03-May-2023 23:39:08 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[03-May-2023 23:39:13 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[06-May-2023 05:34:08 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[06-May-2023 05:34:11 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[08-May-2023 06:43:40 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[08-May-2023 06:43:42 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[10-May-2023 06:07:14 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[10-May-2023 06:07:17 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[14-May-2023 03:02:25 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[14-May-2023 03:02:28 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-May-2023 18:07:24 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-May-2023 18:07:25 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[19-May-2023 09:02:58 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[19-May-2023 09:02:58 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[13-Oct-2023 06:02:02 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[13-Oct-2023 06:02:03 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-Oct-2023 06:40:50 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[16-Oct-2023 06:40:54 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[18-Oct-2023 20:33:42 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[18-Oct-2023 20:33:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[27-Oct-2023 19:31:11 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[27-Oct-2023 19:31:16 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[12-Nov-2023 15:31:38 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/align.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/align.php on line 60
+[12-Nov-2023 15:31:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[12-Nov-2023 15:31:53 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/colors.php on line 153
+[12-Nov-2023 15:31:57 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[12-Nov-2023 15:32:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[12-Nov-2023 15:32:03 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[12-Nov-2023 15:32:08 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[12-Nov-2023 15:32:16 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[12-Nov-2023 15:32:21 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[12-Nov-2023 15:32:24 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/typography.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/typography.php on line 206
+[19-Nov-2023 08:50:49 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/align.php:60
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/align.php on line 60
+[19-Nov-2023 08:50:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/border.php:170
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/border.php on line 170
+[19-Nov-2023 08:50:55 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/colors.php:153
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/colors.php on line 153
+[19-Nov-2023 08:50:58 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/custom-classname.php on line 59
+[19-Nov-2023 08:51:11 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php:426
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/duotone.php on line 426
+[19-Nov-2023 08:51:16 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function add_filter() in /home/agencygrow/public_html/wp-includes/block-supports/elements.php:71
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/elements.php on line 71
+[19-Nov-2023 08:51:25 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/generated-classname.php on line 67
+[19-Nov-2023 08:51:28 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/layout.php:99
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/layout.php on line 99
+[19-Nov-2023 08:51:32 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php:89
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/spacing.php on line 89
+[19-Nov-2023 08:51:35 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/agencygrow/public_html/wp-includes/block-supports/typography.php:206
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/block-supports/typography.php on line 206

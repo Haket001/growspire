@@ -1,0 +1,37 @@
+[28-May-2019 12:15:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[06-Jul-2019 15:27:57 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[15-Jul-2019 12:41:51 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[16-Jul-2019 10:27:19 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[20-Oct-2019 14:50:00 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[10-Dec-2019 00:09:16 Europe/Helsinki] PHP Notice:  Undefined index: wp_version in /home/agencygrow/public_html/wp-content/themes/twentysixteen/functions.php on line 31
+[10-Dec-2019 00:09:16 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_template_directory() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/functions.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/functions.php on line 32
+[21-Feb-2021 05:39:22 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[21-Feb-2021 05:39:23 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/404.php on line 10
+[13-Jul-2021 18:57:24 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-content/themes/twentysixteen/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-content/themes/twentysixteen/index.php on line 17

@@ -1,0 +1,8 @@
+[12-Nov-2023 15:43:18 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[12-Nov-2023 15:43:27 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[12-Nov-2023 15:43:34 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[12-Nov-2023 15:43:41 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17
+[19-Nov-2023 09:02:07 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-comment-meta-fields.php on line 17
+[19-Nov-2023 09:02:14 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-post-meta-fields.php on line 17
+[19-Nov-2023 09:02:19 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-term-meta-fields.php on line 17
+[19-Nov-2023 09:02:24 Europe/Helsinki] PHP Fatal error:  Class 'WP_REST_Meta_Fields' not found in /home/agencygrow/public_html/wp-includes/rest-api/fields/class-wp-rest-user-meta-fields.php on line 17

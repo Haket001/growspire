@@ -1,0 +1,1 @@
+[09-Dec-2022 23:42:30 Europe/Helsinki] PHP Fatal error:  Class 'ParagonIE_Sodium_Core_Ed25519' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/src/Core/Ristretto255.php on line 6

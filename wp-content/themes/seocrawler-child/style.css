@@ -1,0 +1,33 @@
+/*
+ Theme Name:   SEOCrawler Child
+ Theme URI:    http://demo.goodlayers.com/seocrawler
+ Description:  Goodlayers SEOCrawler Child Theme
+ Author:       Goodlayers
+ Author URI:   http://goodlayers.com
+ Template:     seocrawler
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, right-sidebar, responsive-layout
+ Text Domain:  seocrawler-child
+
+ START YOUR CHILD THEME CSS HERE
+*/
+
+/*footer menu styles*/
+
+#footer_menu{
+	display: inline-block;
+}
+#footer_menu ul{
+	list-style: none;
+}
+#footer_menu li {
+	display: inline-block;
+}
+#footer_menu li:after{
+	content: " | ";
+}
+#footer_menu li:last-child:after{
+	content: "";
+}

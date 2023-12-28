@@ -1,0 +1,3738 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Infinite\n"
+"POT-Creation-Date: 2017-07-05 01:07+0700\n"
+"PO-Revision-Date: 2016-06-24 23:44+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;__e;esc_html__;esc_html_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: 404.php:14
+msgid "404"
+msgstr ""
+
+#: 404.php:15
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:16
+msgid "Sorry, we couldn't find the page you're looking for."
+msgstr ""
+
+#: 404.php:19 content/archive-not-found.php:16
+msgid "Type Keywords..."
+msgstr ""
+
+#: 404.php:23 content/archive-not-found.php:20
+msgid "Or Back To Homepage"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:23
+msgid "Footer 1"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:23
+msgid "Footer Column 1"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:24
+msgid "Footer 2"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:24
+msgid "Footer Column 2"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:25
+msgid "Footer 3"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:25
+msgid "Footer Column 3"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:26
+msgid "Footer 4"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:26
+msgid "Footer Column 4"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:49
+msgid "Preset"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:51
+msgid "Another Custom widget area"
+msgstr ""
+
+#: admin/core/sidebar-generator.php:68
+msgid "Custom widget area"
+msgstr ""
+
+#: admin/function/getting-start.php:12 admin/function/getting-start.php:13
+msgid "Getting Start / Import"
+msgstr ""
+
+#: admin/function/getting-start.php:29
+msgid "Required Plugins"
+msgstr ""
+
+#: admin/function/getting-start.php:31
+msgid ""
+"<strong>Before moving on, please make sure that all required plugins are "
+"installed and activated</strong><br>This is very important step to make the "
+"theme run properly."
+msgstr ""
+
+#: admin/function/getting-start.php:32
+#: admin/tgmpa/class-tgm-plugin-activation.php:334
+#: admin/tgmpa/plugin-activation.php:18
+msgid "Install Required Plugins"
+msgstr ""
+
+#: admin/function/getting-start.php:33
+msgid "1. Install plugins then click on 'Return To Require Plugins Installer"
+msgstr ""
+
+#: admin/function/getting-start.php:34
+msgid "2. Activate plugins"
+msgstr ""
+
+#: admin/function/getting-start.php:40
+msgid "Guidelines"
+msgstr ""
+
+#: admin/function/getting-start.php:43
+msgid "<h4>1.) Installation</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:44
+msgid "<h4>2.) Importing Demo</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:45
+msgid "<h4>3.) Creating Portfolio</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:46
+msgid "<h4>4.) Creating Personnel</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:47
+msgid "<h4>5.) Creating Blog</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:48
+msgid "<h4>6.) Goodlayers Page Builder</h4>"
+msgstr ""
+
+#: admin/function/getting-start.php:53
+msgid "Import Demo"
+msgstr ""
+
+#: admin/function/getting-start.php:55
+msgid ""
+"<strong>Get import error?</strong> Please make sure that your server has PHP "
+"max_execution_time at least 300, memory_limit at least 512MB. You may set "
+"these values temporaly and change it back after finish importing."
+"<br><strong>If you're importing main demo (Full Version), PHP max_input_vars "
+"is recommended to be at least 4000</strong>"
+msgstr ""
+
+#: admin/function/getting-start.php:57
+msgid ""
+"<strong>Main demo (Full verion)</strong> - include all pages shown in demo "
+"such as elements, features, about us, services contact, all portfolio pages, "
+"all blog pages. It's 100+ pages and 170+ images in total."
+msgstr ""
+
+#: admin/function/getting-start.php:58
+msgid ""
+"<strong>Main demo (Lite verion)</strong> - include about us, services, few "
+"portfolios, few blog pages. Element and feature page are not included."
+msgstr ""
+
+#: admin/function/getting-start.php:59
+msgid ""
+"Please also be cautious that over 1000+ images will be generated in main "
+"demo."
+msgstr ""
+
+#: admin/function/getting-start.php:65
+msgid "System Status"
+msgstr ""
+
+#: admin/function/getting-start.php:67
+msgid ""
+"<strong>To import demo content</strong>, PHP max_execution_time at least 300 "
+"secs and  memory_limit at least 512MB is recommended. <strong><br>If you're "
+"importing main demo (Full Version)</strong>, PHP max_input_vars is "
+"recommended to be at least 4000."
+msgstr ""
+
+#: admin/function/getting-start.php:79 admin/function/getting-start.php:86
+msgid "Get Automatic Updates"
+msgstr ""
+
+#: admin/function/getting-start.php:81
+msgid ""
+"<p><strong>To get automatic updates, you need to install and activate the "
+"plugin 'Envato Market'</strong>.<br>You'll also need API Personal Token for "
+"verification. Please read for instruction in plugin settings.</p>"
+msgstr ""
+
+#: admin/function/getting-start.php:82
+msgid "Get envato market plugin now!"
+msgstr ""
+
+#: admin/function/getting-start.php:88
+msgid ""
+"<p><strong>To get automatic updates</strong>, you need to fill the "
+"infomation in 'Envato Market' plugin page.<br>You need to retrieve API "
+"Personal Token for verification. Please read for instruction in plugin "
+"settings.</p>"
+msgstr ""
+
+#: admin/function/getting-start.php:89
+msgid "Go to plugin settings!"
+msgstr ""
+
+#: admin/function/getting-start.php:96
+msgid "Support"
+msgstr ""
+
+#: admin/function/getting-start.php:98
+msgid ""
+"<p><strong>Have questions about how to use the theme?</strong></p><p>Make "
+"sure that you read all through the document we provided. The document is "
+"contained in main package that you downloaded from Themeforest. It's in the "
+"folder 'Document-Instruction', open the file 'index.html' with your browser. "
+"Or you can view online document here.</p>"
+msgstr ""
+
+#: admin/function/getting-start.php:99
+msgid "View Online Document"
+msgstr ""
+
+#: admin/function/getting-start.php:100
+msgid ""
+"<p><strong>Have problems or can't find answer in the document?</strong></"
+"p><p>1. Make sure that you are running the latest version of the theme."
+"<br>2. Make sure that you deeply checked theme's instruction and try to "
+"search for public tickets in case of someone else asked the same question "
+"before. <br> 3. Try to deactivate all plugins (Except Goodlayers plugins) "
+"and see if the problem resolved or not.</p>"
+msgstr ""
+
+#: admin/function/getting-start.php:101
+#, php-format
+msgid ""
+"<p>After doing these steps and still see the problem, feel free to submit "
+"tickets in our support website. Our supporter are happy to help you."
+"<br><strong>Please note that you will need Purchase code to submit the "
+"ticket</strong> - <a href=\"%s\" target=\"_blank\" >How to get purchased "
+"code?</a></p>"
+msgstr ""
+
+#: admin/function/getting-start.php:102
+msgid "Go to support website"
+msgstr ""
+
+#: admin/function/getting-start.php:108
+msgid "Congratulations !"
+msgstr ""
+
+#: admin/function/getting-start.php:109 admin/function/getting-start.php:125
+msgid "SEO Crawler"
+msgstr ""
+
+#: admin/function/getting-start.php:109
+msgid ""
+"WordPress theme is now installed and ready to use. Thank you so much for "
+"choosing Goodlayers!"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:335
+#: admin/tgmpa/plugin-activation.php:17
+msgid "Install Plugins"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:393
+#: admin/tgmpa/class-tgm-plugin-activation.php:922
+#: admin/tgmpa/class-tgm-plugin-activation.php:2634
+#: admin/tgmpa/class-tgm-plugin-activation.php:3681
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:394
+#: admin/tgmpa/class-tgm-plugin-activation.php:3260
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:395
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:1029
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:1029
+#: admin/tgmpa/class-tgm-plugin-activation.php:1032
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:1032
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2079
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2370
+msgid "Required"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2373
+msgid "Recommended"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2389
+msgid "WordPress Repository"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2392
+msgid "External Source"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2395
+msgid "Pre-Packaged"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2412
+msgid "Not Installed"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2416
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2418
+msgid "Active"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2424
+msgid "Required Update not Available"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2427
+msgid "Requires Update"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2430
+msgid "Update recommended"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2587
+msgid "Installed version:"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2595
+msgid "Minimum required version:"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2607
+msgid "Available version:"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2634
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2648
+msgid "Plugin"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2649
+msgid "Source"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2650
+msgid "Type"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2654
+msgid "Version"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2655
+msgid "Status"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2704
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2715
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2785
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2818
+msgid "Install"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2824
+msgid "Update"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2827
+msgid "Activate"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2858
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2860
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2901
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:2903
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3009
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3035
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3259
+msgid "Plugin activation failed."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3599
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3608
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3610
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3610
+#: admin/tgmpa/class-tgm-plugin-activation.php:3618
+msgid "Show Details"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3610
+#: admin/tgmpa/class-tgm-plugin-activation.php:3618
+msgid "Hide Details"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3611
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3613
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3616
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3618
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3619
+msgid "All installations have been completed."
+msgstr ""
+
+#: admin/tgmpa/class-tgm-plugin-activation.php:3621
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:86
+msgid "Goodlayers Core"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:95
+msgid "Goodlayers Core Portfolio"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:104
+msgid "Goodlayers Core Personnel"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:113
+msgid "Goodlayers Core Twitter"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:122
+msgid "Envato Market"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:131 functions.php:275
+msgid "Revolution Slider"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:141
+msgid "Contact Form 7"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:146
+msgid "WP Google Map Plugin"
+msgstr ""
+
+#: admin/tgmpa/plugin-activation.php:151
+msgid "Snazzy Maps"
+msgstr ""
+
+#: comments.php:19
+#, php-format
+msgid "%s Responses"
+msgstr ""
+
+#: comments.php:21
+#, php-format
+msgid "%s Response"
+msgstr ""
+
+#: comments.php:46
+msgid "Leave a Reply"
+msgstr ""
+
+#: comments.php:47
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:48
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:49
+msgid "Post Comment"
+msgstr ""
+
+#: comments.php:56
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:59
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: comments.php:66
+msgid "Name*"
+msgstr ""
+
+#: comments.php:69
+msgid "Email*"
+msgstr ""
+
+#: comments.php:72
+msgid "Website"
+msgstr ""
+
+#: comments.php:75
+msgid "Comment*"
+msgstr ""
+
+#: content/archive-default.php:15
+msgid "Previous page"
+msgstr ""
+
+#: content/archive-default.php:16
+msgid "Next page"
+msgstr ""
+
+#: content/archive-default.php:17 content/content-single.php:57
+msgid "Page"
+msgstr ""
+
+#: content/archive-not-found.php:12
+msgid "Not Found"
+msgstr ""
+
+#: content/archive-not-found.php:13
+msgid ""
+"Nothing matched your search criteria. Please try again with different "
+"keywords."
+msgstr ""
+
+#: content/content-full.php:18 content/content-full.php:23
+msgid "Sticky Post"
+msgstr ""
+
+#: content/content-single.php:53
+msgid "Pages:"
+msgstr ""
+
+#: functions.php:92 functions.php:337 include/options/general.php:54
+#: include/options/general.php:58
+msgid "Layout"
+msgstr ""
+
+#: functions.php:95
+msgid "Enable Header Area"
+msgstr ""
+
+#: functions.php:100
+msgid "Enable Page Title"
+msgstr ""
+
+#: functions.php:106
+msgid "Caption"
+msgstr ""
+
+#: functions.php:111 include/options/general.php:1056
+msgid "Page Title Background"
+msgstr ""
+
+#: functions.php:116
+msgid "Body Background Type"
+msgstr ""
+
+#: functions.php:119 functions.php:165 functions.php:174 functions.php:190
+#: functions.php:374 functions.php:399 functions.php:421
+#: include/options/general.php:986
+msgid "Default"
+msgstr ""
+
+#: functions.php:120
+msgid "Image ( Only For Boxed Layout )"
+msgstr ""
+
+#: functions.php:124
+msgid "Body Background Image"
+msgstr ""
+
+#: functions.php:130
+msgid "Body Background Image Opacity"
+msgstr ""
+
+#: functions.php:137 functions.php:341
+msgid "Show WordPress Editor Content"
+msgstr ""
+
+#: functions.php:140 functions.php:344
+msgid ""
+"Disable this to hide the content in editor to show only page builder content."
+msgstr ""
+
+#: functions.php:143 functions.php:347
+msgid "Sidebar"
+msgstr ""
+
+#: functions.php:150 functions.php:355
+msgid "Sidebar Left"
+msgstr ""
+
+#: functions.php:156 functions.php:361
+msgid "Sidebar Right"
+msgstr ""
+
+#: functions.php:162 include/options/general.php:1799
+msgid "Enable Footer"
+msgstr ""
+
+#: functions.php:166 functions.php:175
+msgid "Enable"
+msgstr ""
+
+#: functions.php:167 functions.php:176
+msgid "Disable"
+msgstr ""
+
+#: functions.php:171 include/options/general.php:1839
+msgid "Enable Copyright"
+msgstr ""
+
+#: functions.php:183
+msgid "Title Style"
+msgstr ""
+
+#: functions.php:187 include/options/general.php:931
+msgid "Page Title Style"
+msgstr ""
+
+#: functions.php:191 functions.php:400 include/options/general.php:938
+#: include/options/general.php:1114 include/options/general.php:1705
+msgid "Small"
+msgstr ""
+
+#: functions.php:192 include/options/general.php:939
+msgid "Medium"
+msgstr ""
+
+#: functions.php:193 functions.php:401 include/options/general.php:940
+#: include/options/general.php:1115 include/options/general.php:1706
+msgid "Large"
+msgstr ""
+
+#: functions.php:194 functions.php:402 include/options/general.php:198
+#: include/options/general.php:560 include/options/general.php:941
+#: include/options/general.php:1116
+msgid "Custom"
+msgstr ""
+
+#: functions.php:199
+msgid "Page Title Alignment"
+msgstr ""
+
+#: functions.php:206
+msgid "Page Title Padding"
+msgstr ""
+
+#: functions.php:215
+msgid "Page Title Font Size"
+msgstr ""
+
+#: functions.php:224
+msgid "Page Title Font Weight"
+msgstr ""
+
+#: functions.php:232
+msgid "Page Title Font Transform"
+msgstr ""
+
+#: functions.php:235 functions.php:272 functions.php:404 functions.php:424
+#: include/options/general.php:987 include/options/general.php:1118
+#: include/options/general.php:1148 include/options/general.php:1889
+#: include/options/typography.php:172
+msgid "None"
+msgstr ""
+
+#: functions.php:236 include/options/general.php:988
+#: include/options/general.php:1886 include/options/typography.php:169
+msgid "Uppercase"
+msgstr ""
+
+#: functions.php:237 include/options/general.php:989
+#: include/options/general.php:1887 include/options/typography.php:170
+msgid "Lowercase"
+msgstr ""
+
+#: functions.php:238 include/options/general.php:990
+#: include/options/general.php:1888 include/options/typography.php:171
+msgid "Capitalize"
+msgstr ""
+
+#: functions.php:244
+msgid "Page Title Background Overlay Opacity"
+msgstr ""
+
+#: functions.php:246 functions.php:440
+msgid "Fill the number between 0 - 1 ( Leave Blank For Default Value )"
+msgstr ""
+
+#: functions.php:250 include/options/color.php:541
+msgid "Page Title Color"
+msgstr ""
+
+#: functions.php:254 include/options/color.php:547
+msgid "Page Caption Color"
+msgstr ""
+
+#: functions.php:258
+msgid "Page Background Overlay Color"
+msgstr ""
+
+#: functions.php:265 include/options/color.php:181
+#: include/options/general.php:380
+msgid "Header"
+msgstr ""
+
+#: functions.php:269
+msgid "Header Slider ( Above Navigation )"
+msgstr ""
+
+#: functions.php:273
+msgid "Layer Slider"
+msgstr ""
+
+#: functions.php:274
+msgid "Master Slider"
+msgstr ""
+
+#: functions.php:277
+msgid "For header style plain / bar / boxed"
+msgstr ""
+
+#: functions.php:280
+msgid "Choose Layer Slider"
+msgstr ""
+
+#: functions.php:286
+msgid "Choose Master Slider"
+msgstr ""
+
+#: functions.php:292
+msgid "Choose Revolution Slider"
+msgstr ""
+
+#: functions.php:301
+msgid "Bullet Anchor"
+msgstr ""
+
+#: functions.php:305
+msgid ""
+"This feature is used for one page navigation. It will appear on the right "
+"side of page. You can put the id of element in 'Anchor Link' field to let "
+"the bullet scroll the page to."
+msgstr ""
+
+#: functions.php:308
+msgid "Add Anchor"
+msgstr ""
+
+#: functions.php:313
+msgid "Anchor Link"
+msgstr ""
+
+#: functions.php:317
+msgid "Anchor Color"
+msgstr ""
+
+#: functions.php:321
+msgid "Anchor Hover Color"
+msgstr ""
+
+#: functions.php:369
+msgid "Metro Layout"
+msgstr ""
+
+#: functions.php:372
+msgid "Column Size"
+msgstr ""
+
+#: functions.php:379 functions.php:387
+msgid ""
+"Choosing default will display the value selected by the page builder item."
+msgstr ""
+
+#: functions.php:382
+msgid "Thumbnail Size"
+msgstr ""
+
+#: functions.php:392
+msgid "Title"
+msgstr ""
+
+#: functions.php:396 include/options/general.php:1107
+msgid "Blog Title Style"
+msgstr ""
+
+#: functions.php:403 functions.php:422 include/options/general.php:1117
+#: include/options/general.php:1146
+msgid "Inside Content"
+msgstr ""
+
+#: functions.php:409
+msgid "Blog Title Padding"
+msgstr ""
+
+#: functions.php:418
+msgid "Blog Feature Image Location"
+msgstr ""
+
+#: functions.php:423 include/options/general.php:1147
+msgid "Title Background"
+msgstr ""
+
+#: functions.php:428
+msgid "Blog Title Background Image"
+msgstr ""
+
+#: functions.php:435
+msgid "Will be overridden by feature image if selected."
+msgstr ""
+
+#: functions.php:438
+msgid "Blog Title Background Overlay Opacity"
+msgstr ""
+
+#: header/header-title.php:13
+msgid "Blog"
+msgstr ""
+
+#: header/header-title.php:62
+msgid "Search Results"
+msgstr ""
+
+#: header/header-title.php:72 include/options/general.php:1227
+#: include/options/general.php:1416
+msgid "Category"
+msgstr ""
+
+#: header/header-title.php:83 include/options/general.php:1228
+#: include/options/general.php:1417
+msgid "Tag"
+msgstr ""
+
+#: header/header-title.php:94
+msgid "Day"
+msgstr ""
+
+#: header/header-title.php:97
+msgid "Month"
+msgstr ""
+
+#: header/header-title.php:100
+msgid "Year"
+msgstr ""
+
+#: header/header-title.php:103
+msgid "By"
+msgstr ""
+
+#: header/header-title.php:109
+msgid "Shop"
+msgstr ""
+
+#: header/header-top-slider.php:19
+msgid ""
+"Please import and select the slides you want to show at the header area from "
+"the \"page options\" area again."
+msgstr ""
+
+#: include/function-regist.php:78
+msgid "Primary Menu"
+msgstr ""
+
+#: include/function-regist.php:79
+msgid "Secondary Menu"
+msgstr ""
+
+#: include/function-regist.php:80
+msgid "Mobile Menu"
+msgstr ""
+
+#: include/goodlayers-core-filter.php:228
+msgid "Home - Main"
+msgstr ""
+
+#: include/navigation-menu.php:120
+msgid "Enable Mega Menu"
+msgstr ""
+
+#: include/navigation-menu.php:125
+#, php-format
+msgid "Mega Menu Width ( Fill value with % or px )"
+msgstr ""
+
+#: include/navigation-menu.php:131
+msgid "Hide Menu Title"
+msgstr ""
+
+#: include/navigation-menu.php:136
+msgid "Section Size ( Only for mega menu )"
+msgstr ""
+
+#: include/navigation-menu.php:146
+msgid "Section Content ( Only for mega menu )"
+msgstr ""
+
+#: include/options/color.php:24 include/options/typography.php:12
+msgid "Typography"
+msgstr ""
+
+#: include/options/color.php:28
+msgid "Title Color"
+msgstr ""
+
+#: include/options/color.php:32
+msgid "Title (Link) Hover Color"
+msgstr ""
+
+#: include/options/color.php:36
+msgid "Caption Color"
+msgstr ""
+
+#: include/options/color.php:40
+msgid "Content Color"
+msgstr ""
+
+#: include/options/color.php:44
+msgid "Icon Color"
+msgstr ""
+
+#: include/options/color.php:50 include/options/color.php:575
+msgid "Link Color"
+msgstr ""
+
+#: include/options/color.php:54 include/options/color.php:581
+msgid "Link Hover Color"
+msgstr ""
+
+#: include/options/color.php:58
+msgid "Divider & Elements"
+msgstr ""
+
+#: include/options/color.php:62 include/options/color.php:587
+msgid "Divider Color"
+msgstr ""
+
+#: include/options/color.php:67
+msgid "Border Color"
+msgstr ""
+
+#: include/options/color.php:72
+msgid "Element Background Color"
+msgstr ""
+
+#: include/options/color.php:80
+msgid "Element Content Color"
+msgstr ""
+
+#: include/options/color.php:90
+msgid "Button"
+msgstr ""
+
+#: include/options/color.php:94
+msgid "Button Text"
+msgstr ""
+
+#: include/options/color.php:100
+msgid "Button Text Hover"
+msgstr ""
+
+#: include/options/color.php:106
+msgid "Button Background"
+msgstr ""
+
+#: include/options/color.php:112
+msgid "Button Bg Hover / Gradient"
+msgstr ""
+
+#: include/options/color.php:118
+msgid "Button Border"
+msgstr ""
+
+#: include/options/color.php:123
+msgid "Button Border Hover"
+msgstr ""
+
+#: include/options/color.php:158 include/options/general.php:90
+msgid "Color"
+msgstr ""
+
+#: include/options/color.php:165
+msgid "Skin"
+msgstr ""
+
+#: include/options/color.php:170
+msgid "Skin Settings"
+msgstr ""
+
+#: include/options/color.php:185
+msgid "Page Preload Background Color"
+msgstr ""
+
+#: include/options/color.php:191
+msgid "Top Bar Background Color"
+msgstr ""
+
+#: include/options/color.php:197
+msgid "Top Bar Bottom Border Color"
+msgstr ""
+
+#: include/options/color.php:203
+msgid "Top Bar Text Color"
+msgstr ""
+
+#: include/options/color.php:209
+msgid "Top Bar Link Color"
+msgstr ""
+
+#: include/options/color.php:215
+msgid "Top Bar Link Hover Color"
+msgstr ""
+
+#: include/options/color.php:221
+msgid "Top Bar Social Color"
+msgstr ""
+
+#: include/options/color.php:227
+msgid "Top Bar Social Hover Color"
+msgstr ""
+
+#: include/options/color.php:233
+msgid "Header Background Color"
+msgstr ""
+
+#: include/options/color.php:239
+msgid "Header Bottom Border Color ( Header Plain Style )"
+msgstr ""
+
+#: include/options/color.php:245
+msgid "Navigation Bar Background Color ( Header Bar Style )"
+msgstr ""
+
+#: include/options/color.php:251
+msgid "Navigation Bar Top Border Color ( Header Bar Style )"
+msgstr ""
+
+#: include/options/color.php:257
+msgid "Navigation Slide Bar Color"
+msgstr ""
+
+#: include/options/color.php:265
+msgid "Logo Background Color ( Header Side Menu Toggle Style )"
+msgstr ""
+
+#: include/options/color.php:271
+msgid "Navigation Bar Right Icon Color"
+msgstr ""
+
+#: include/options/color.php:277
+msgid "Woocommmerce Cart's Icon Number Background"
+msgstr ""
+
+#: include/options/color.php:283
+msgid "Woocommmerce Cart's Icon Number Color"
+msgstr ""
+
+#: include/options/color.php:289
+msgid "Secondary Menu Icon Color"
+msgstr ""
+
+#: include/options/color.php:298
+msgid "Secondary Menu Border Color"
+msgstr ""
+
+#: include/options/color.php:304
+msgid "Search Overlay Background Color"
+msgstr ""
+
+#: include/options/color.php:311
+msgid "Top Cart Background Color"
+msgstr ""
+
+#: include/options/color.php:317
+msgid "Top Cart Text Color"
+msgstr ""
+
+#: include/options/color.php:324
+msgid "Top Cart : View Cart Text Color"
+msgstr ""
+
+#: include/options/color.php:331
+msgid "Top Cart : Checkout Text Color"
+msgstr ""
+
+#: include/options/color.php:338
+msgid "Breadcrumbs ( Plugin ) Text Color"
+msgstr ""
+
+#: include/options/color.php:345
+msgid "Breadcrumbs ( Plugin ) Text Active Color"
+msgstr ""
+
+#: include/options/color.php:356
+msgid "Menu / Navigation"
+msgstr ""
+
+#: include/options/color.php:360
+msgid "Main Menu Text Color"
+msgstr ""
+
+#: include/options/color.php:366
+msgid "Main Menu Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:377
+msgid "Sub Menu Background Color"
+msgstr ""
+
+#: include/options/color.php:384
+msgid "Sub Menu Text Color"
+msgstr ""
+
+#: include/options/color.php:391
+msgid "Sub Menu Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:404
+msgid "Sub Menu Text Hover Background"
+msgstr ""
+
+#: include/options/color.php:417
+msgid "Sub Mega Menu Title Color"
+msgstr ""
+
+#: include/options/color.php:423
+msgid "Sub Mega Menu Divider Color"
+msgstr ""
+
+#: include/options/color.php:429
+msgid "Side Menu Text Color"
+msgstr ""
+
+#: include/options/color.php:437
+msgid "Side Menu Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:445
+msgid "Side Menu Background Color"
+msgstr ""
+
+#: include/options/color.php:451
+msgid "Side Menu Border Color"
+msgstr ""
+
+#: include/options/color.php:457
+msgid "Overlay Menu Background Color"
+msgstr ""
+
+#: include/options/color.php:464
+msgid "Overlay Menu Border Color"
+msgstr ""
+
+#: include/options/color.php:470
+msgid "Overlay Menu Text Color"
+msgstr ""
+
+#: include/options/color.php:476
+msgid "Overlay Menu Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:482
+msgid "Anchor Bullet Background"
+msgstr ""
+
+#: include/options/color.php:488
+msgid "Anchor Bullet Background Active"
+msgstr ""
+
+#: include/options/color.php:495
+msgid "Navigation Right Button Text Color"
+msgstr ""
+
+#: include/options/color.php:501
+msgid "Navigation Right Button Background Color"
+msgstr ""
+
+#: include/options/color.php:507
+msgid "Navigation Right Button Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:513
+msgid "Navigation Right Button Background Hover Color"
+msgstr ""
+
+#: include/options/color.php:524
+msgid "Body"
+msgstr ""
+
+#: include/options/color.php:528
+msgid "Body Background Color"
+msgstr ""
+
+#: include/options/color.php:534
+msgid "Container Background Color ( For Boxed Layout )"
+msgstr ""
+
+#: include/options/color.php:554
+msgid "Page Title Background Overlay Color"
+msgstr ""
+
+#: include/options/color.php:560
+msgid "Body Content Color"
+msgstr ""
+
+#: include/options/color.php:566
+msgid "Heading Color"
+msgstr ""
+
+#: include/options/color.php:594
+msgid "Input Box Background Color"
+msgstr ""
+
+#: include/options/color.php:601
+msgid "Input Box Border Color"
+msgstr ""
+
+#: include/options/color.php:608
+msgid "Input Box Text Color"
+msgstr ""
+
+#: include/options/color.php:615
+msgid "Input Box Placeholder Text Color"
+msgstr ""
+
+#: include/options/color.php:628
+msgid "404 Page"
+msgstr ""
+
+#: include/options/color.php:632
+msgid "404 Content Background Color"
+msgstr ""
+
+#: include/options/color.php:638
+msgid "404 Head Color"
+msgstr ""
+
+#: include/options/color.php:644
+msgid "404 Title Color"
+msgstr ""
+
+#: include/options/color.php:650
+msgid "404 Caption Color"
+msgstr ""
+
+#: include/options/color.php:656
+msgid "404 Input Background Color"
+msgstr ""
+
+#: include/options/color.php:663
+msgid "404 Input Text Color"
+msgstr ""
+
+#: include/options/color.php:674
+msgid "404 Back To Home"
+msgstr ""
+
+#: include/options/color.php:684
+msgid "Sidebar / Widget"
+msgstr ""
+
+#: include/options/color.php:688
+msgid "Sidebar Title Color"
+msgstr ""
+
+#: include/options/color.php:694
+msgid "Sidebar Link Color"
+msgstr ""
+
+#: include/options/color.php:704
+msgid "Sidebar Link Hover Color"
+msgstr ""
+
+#: include/options/color.php:710
+msgid "Recent Post Widget Info Icon"
+msgstr ""
+
+#: include/options/color.php:716
+msgid "Recent Post Widget Info Link"
+msgstr ""
+
+#: include/options/color.php:724
+msgid "Post Slider Widget Title"
+msgstr ""
+
+#: include/options/color.php:730
+msgid "Post Slider Widget Info"
+msgstr ""
+
+#: include/options/color.php:739
+msgid "Search Box Text Color"
+msgstr ""
+
+#: include/options/color.php:749
+msgid "Search Box Border Color"
+msgstr ""
+
+#: include/options/color.php:755
+msgid "Search Box Icon Color"
+msgstr ""
+
+#: include/options/color.php:761
+msgid "Twitter Widget Icon Color"
+msgstr ""
+
+#: include/options/color.php:767
+msgid "Twitter Widget Date Color"
+msgstr ""
+
+#: include/options/color.php:777 include/options/general.php:1790
+msgid "Footer/Copyright"
+msgstr ""
+
+#: include/options/color.php:781
+msgid "Footer Background Color"
+msgstr ""
+
+#: include/options/color.php:787
+msgid "Footer Title Color"
+msgstr ""
+
+#: include/options/color.php:795
+msgid "Footer Content Color"
+msgstr ""
+
+#: include/options/color.php:805
+msgid "Footer Link Color"
+msgstr ""
+
+#: include/options/color.php:811
+msgid "Footer Link Hover Color"
+msgstr ""
+
+#: include/options/color.php:817
+msgid "Footer Divider Color"
+msgstr ""
+
+#: include/options/color.php:824
+msgid "Copyright Background Color"
+msgstr ""
+
+#: include/options/color.php:830
+msgid "Copyright Text Color"
+msgstr ""
+
+#: include/options/color.php:836
+msgid "Copyright Link Color"
+msgstr ""
+
+#: include/options/color.php:842
+msgid "Copyright Link Hover Color"
+msgstr ""
+
+#: include/options/color.php:848
+msgid "Back To Top Background Color"
+msgstr ""
+
+#: include/options/color.php:854
+msgid "Back To Top Text Color"
+msgstr ""
+
+#: include/options/color.php:864
+msgid "Single Blog"
+msgstr ""
+
+#: include/options/color.php:868
+msgid "Single Blog ( Main Title ) Title Color"
+msgstr ""
+
+#: include/options/color.php:874
+msgid "Single Blog ( Main Title )  Info Color"
+msgstr ""
+
+#: include/options/color.php:881
+msgid "Single Blog ( Main Title )  Date Day Color"
+msgstr ""
+
+#: include/options/color.php:887
+msgid "Single Blog ( Main Title )  Date Month Color"
+msgstr ""
+
+#: include/options/color.php:893
+msgid "Single Blog ( Main Title ) Date Divider Color"
+msgstr ""
+
+#: include/options/color.php:899
+msgid "Single Blog ( Main Title ) Background Overlay Color"
+msgstr ""
+
+#: include/options/color.php:905
+msgid "Single Blog Author Title"
+msgstr ""
+
+#: include/options/color.php:911
+msgid "Single Blog Author Caption"
+msgstr ""
+
+#: include/options/color.php:917
+msgid "Single Blog Navigation Color"
+msgstr ""
+
+#: include/options/color.php:923
+msgid "Single Blog Comment Title"
+msgstr ""
+
+#: include/options/color.php:930
+msgid "Single Blog Comment Background"
+msgstr ""
+
+#: include/options/color.php:936
+msgid "Single Comment Reply Color"
+msgstr ""
+
+#: include/options/color.php:942
+msgid "Single Comment Time Color"
+msgstr ""
+
+#: include/options/color.php:952
+msgid "Blog / Pagination"
+msgstr ""
+
+#: include/options/color.php:956
+msgid "Blog Title Color"
+msgstr ""
+
+#: include/options/color.php:962
+msgid "Blog Title Hover Color"
+msgstr ""
+
+#: include/options/color.php:968
+msgid "Blog Sticky Banner Text"
+msgstr ""
+
+#: include/options/color.php:974
+msgid "Blog Sticky Banner Background"
+msgstr ""
+
+#: include/options/color.php:980
+msgid "Blog Info Color"
+msgstr ""
+
+#: include/options/color.php:989
+msgid "Blog Date Day Color"
+msgstr ""
+
+#: include/options/color.php:995
+msgid "Blog Date Month Color"
+msgstr ""
+
+#: include/options/color.php:1001
+msgid "Blog Frame Background Color"
+msgstr ""
+
+#: include/options/color.php:1007
+msgid "Blog Modern/Metro Overlay Text Color"
+msgstr ""
+
+#: include/options/color.php:1020
+msgid "Blog Quote / Aside Background"
+msgstr ""
+
+#: include/options/color.php:1029
+msgid "Blog Quote / Aside Text"
+msgstr ""
+
+#: include/options/color.php:1042
+msgid "Pagination Background Color"
+msgstr ""
+
+#: include/options/color.php:1048
+msgid "Pagination Text Color"
+msgstr ""
+
+#: include/options/color.php:1054
+msgid "Pagination Background Hover Color"
+msgstr ""
+
+#: include/options/color.php:1060
+msgid "Pagination Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:1066
+msgid "Pagination ( Border / Plain ) Color"
+msgstr ""
+
+#: include/options/color.php:1073
+msgid "Pagination ( Border / Plain ) Hover Color"
+msgstr ""
+
+#: include/options/color.php:1084
+msgid "Portfolio Color"
+msgstr ""
+
+#: include/options/color.php:1088
+msgid "Single Portfolio Navigation Color"
+msgstr ""
+
+#: include/options/color.php:1094
+msgid "Portfolio Frame Background Color"
+msgstr ""
+
+#: include/options/color.php:1100
+msgid "Portfolio Title Color"
+msgstr ""
+
+#: include/options/color.php:1106
+msgid "Port Info Head Color"
+msgstr ""
+
+#: include/options/color.php:1112
+msgid "Portfolio Info Color"
+msgstr ""
+
+#: include/options/color.php:1120
+msgid "Portfolio Badge Text Color"
+msgstr ""
+
+#: include/options/color.php:1126
+msgid "Portfolio Badge Background Color"
+msgstr ""
+
+#: include/options/color.php:1132
+msgid "Portfolio Thumbnail Title/Icon Color"
+msgstr ""
+
+#: include/options/color.php:1140
+msgid "Portfolio Thumbnail Info Color"
+msgstr ""
+
+#: include/options/color.php:1148
+msgid "Portfolio Filter Text Color( Text Style ) "
+msgstr ""
+
+#: include/options/color.php:1154
+msgid "Portfolio Filter Text Active Color( Text Style ) "
+msgstr ""
+
+#: include/options/color.php:1160
+msgid "Portfolio Filter Button Text Color ( Button Style ) "
+msgstr ""
+
+#: include/options/color.php:1166
+msgid "Portfolio Filter Button Background Color ( Button Style ) "
+msgstr ""
+
+#: include/options/color.php:1172
+msgid "Portfolio Filter Button Text Active Color ( Button Style ) "
+msgstr ""
+
+#: include/options/color.php:1178
+msgid "Portfolio Filter Button Background Active Color ( Button Style ) "
+msgstr ""
+
+#: include/options/color.php:1188
+msgid "Price Table"
+msgstr ""
+
+#: include/options/color.php:1192
+msgid "Price Table Background"
+msgstr ""
+
+#: include/options/color.php:1198 include/options/color.php:1278
+msgid "Price Table Head"
+msgstr ""
+
+#: include/options/color.php:1209 include/options/color.php:1289
+msgid "Price Table Head Top Gradient"
+msgstr ""
+
+#: include/options/color.php:1214 include/options/color.php:1294
+msgid "Price Table Icon"
+msgstr ""
+
+#: include/options/color.php:1220 include/options/color.php:1300
+msgid "Price Table Title"
+msgstr ""
+
+#: include/options/color.php:1226 include/options/color.php:1306
+msgid "Price Table Caption"
+msgstr ""
+
+#: include/options/color.php:1232 include/options/color.php:1312
+msgid "Price Table Price Background"
+msgstr ""
+
+#: include/options/color.php:1238 include/options/color.php:1318
+msgid "Price Table Price Text"
+msgstr ""
+
+#: include/options/color.php:1244 include/options/color.php:1324
+msgid "Price Table Price Suffix"
+msgstr ""
+
+#: include/options/color.php:1250 include/options/color.php:1330
+msgid "Price Table Button Color"
+msgstr ""
+
+#: include/options/color.php:1256 include/options/color.php:1336
+msgid "Price Table Button Background"
+msgstr ""
+
+#: include/options/color.php:1267 include/options/color.php:1347
+msgid "Price Table Button Background Top Gradient"
+msgstr ""
+
+#: include/options/color.php:1272
+msgid "Price Table List Border"
+msgstr ""
+
+#: include/options/color.php:1356
+msgid "Element A,B"
+msgstr ""
+
+#: include/options/color.php:1360
+msgid "Accordion / Toggle Box Icon Color"
+msgstr ""
+
+#: include/options/color.php:1369 include/options/color.php:1404
+msgid "Accordion / Toggle Box Title Head Color"
+msgstr ""
+
+#: include/options/color.php:1378
+msgid "Accordion / Toggle Box Title Color"
+msgstr ""
+
+#: include/options/color.php:1387
+msgid "Accordion / Toggle Box Icon Background Color"
+msgstr ""
+
+#: include/options/color.php:1397
+msgid "Accordion / Toggle Box Icon Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1413
+msgid "Accordion / Toggle Box Title Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1422
+msgid "Accordion / Toggle Box Title Background Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1431
+msgid "Accordion / Toggle Box Icon Active Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1438
+msgid "Accordion / Toggle Box Title Text Active Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1447
+msgid ""
+"Accordion / Toggle Box Title Background Active Color ( Background Style )"
+msgstr ""
+
+#: include/options/color.php:1456
+msgid "Audio Background Color"
+msgstr ""
+
+#: include/options/color.php:1462
+msgid "Audio Text Color"
+msgstr ""
+
+#: include/options/color.php:1470
+msgid "Audio Content Background Color"
+msgstr ""
+
+#: include/options/color.php:1477
+msgid "Audio Content Progress Color"
+msgstr ""
+
+#: include/options/color.php:1483
+msgid "Audio Volume Background Color"
+msgstr ""
+
+#: include/options/color.php:1489
+msgid "Audio Volume Progress Color"
+msgstr ""
+
+#: include/options/color.php:1495
+msgid "Alert Box Item Background Color"
+msgstr ""
+
+#: include/options/color.php:1501
+msgid "Alert Box Item Border Color"
+msgstr ""
+
+#: include/options/color.php:1507
+msgid "Alert Box Item Content Color"
+msgstr ""
+
+#: include/options/color.php:1513
+msgid "Alert Box Item Title Color"
+msgstr ""
+
+#: include/options/color.php:1519
+msgid "Blockquote Text Color"
+msgstr ""
+
+#: include/options/color.php:1525
+msgid "Blockquote Background Color"
+msgstr ""
+
+#: include/options/color.php:1531
+msgid "Blockquote Border Color"
+msgstr ""
+
+#: include/options/color.php:1537
+msgid "Blockquote Item Icon Color"
+msgstr ""
+
+#: include/options/color.php:1543
+msgid "Blockquote Item Content Color"
+msgstr ""
+
+#: include/options/color.php:1553
+msgid "Element B,C,D"
+msgstr ""
+
+#: include/options/color.php:1557
+msgid "Button Text Color"
+msgstr ""
+
+#: include/options/color.php:1564
+msgid "Button Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:1570
+msgid "Button Background Color"
+msgstr ""
+
+#: include/options/color.php:1577
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: include/options/color.php:1583
+msgid "Button Border Color"
+msgstr ""
+
+#: include/options/color.php:1590
+msgid "Button Border Hover Color"
+msgstr ""
+
+#: include/options/color.php:1597
+msgid "Button ( Gradient Style ) Background Color"
+msgstr ""
+
+#: include/options/color.php:1608
+msgid "Button ( Gradient Style ) Top Background Color"
+msgstr ""
+
+#: include/options/color.php:1613
+msgid "Call To Action Title Color"
+msgstr ""
+
+#: include/options/color.php:1619
+msgid "Call To Action Caption Color"
+msgstr ""
+
+#: include/options/color.php:1625
+msgid "Counter Item Top Text Color"
+msgstr ""
+
+#: include/options/color.php:1631
+msgid "Counter Item Top Icon Color"
+msgstr ""
+
+#: include/options/color.php:1637
+msgid "Counter Item Number Color"
+msgstr ""
+
+#: include/options/color.php:1643
+msgid "Counter Item Divider Color"
+msgstr ""
+
+#: include/options/color.php:1649
+msgid "Counter Item Bottom Text Color"
+msgstr ""
+
+#: include/options/color.php:1655
+msgid "Column Service Icon Color"
+msgstr ""
+
+#: include/options/color.php:1661
+msgid "Column Service Icon Background"
+msgstr ""
+
+#: include/options/color.php:1667
+msgid "Column Service Title Color"
+msgstr ""
+
+#: include/options/color.php:1673
+msgid "Column Service Caption Color"
+msgstr ""
+
+#: include/options/color.php:1679
+msgid "Dropdown Tab Head Background"
+msgstr ""
+
+#: include/options/color.php:1686
+msgid "Dropdown Tab Head Text"
+msgstr ""
+
+#: include/options/color.php:1696
+msgid "Element F,G,I,O,P"
+msgstr ""
+
+#: include/options/color.php:1700
+msgid "Flipbox / Feature Box Background"
+msgstr ""
+
+#: include/options/color.php:1708
+msgid "Flipbox / Feature Box Border"
+msgstr ""
+
+#: include/options/color.php:1718
+msgid "Flipbox / Feature Box Icon"
+msgstr ""
+
+#: include/options/color.php:1724
+msgid "Flipbox / Feature Box Title"
+msgstr ""
+
+#: include/options/color.php:1730
+msgid "Flipbox / Feature Box Caption"
+msgstr ""
+
+#: include/options/color.php:1736
+msgid "Flipbox / Feature Box Content"
+msgstr ""
+
+#: include/options/color.php:1742 include/options/color.php:1748
+msgid "Gallery Overlay Title"
+msgstr ""
+
+#: include/options/color.php:1754
+msgid "Image Overlay Background"
+msgstr ""
+
+#: include/options/color.php:1761
+msgid "Image Overlay Icon"
+msgstr ""
+
+#: include/options/color.php:1769
+msgid "Image Overlay Icon Background ( Round Icon Style )"
+msgstr ""
+
+#: include/options/color.php:1775
+msgid "Image Item Border"
+msgstr ""
+
+#: include/options/color.php:1781
+msgid "Item's Title Color ( Blog / Portfolio / ... )"
+msgstr ""
+
+#: include/options/color.php:1787
+msgid "Item's Title Caption Color ( Blog / Portfolio / ... )"
+msgstr ""
+
+#: include/options/color.php:1793
+msgid "Item's Title Link Color ( Blog / Portfolio / ... )"
+msgstr ""
+
+#: include/options/color.php:1799
+msgid "Icon List Item Icon Color"
+msgstr ""
+
+#: include/options/color.php:1805
+msgid "Icon List Item Icon Background"
+msgstr ""
+
+#: include/options/color.php:1812
+msgid "Opening Hour Day Text"
+msgstr ""
+
+#: include/options/color.php:1818
+msgid "Opening Hour Open Text"
+msgstr ""
+
+#: include/options/color.php:1824
+msgid "Opening Hour Close Text"
+msgstr ""
+
+#: include/options/color.php:1830
+msgid "Opening Hour Icon Color"
+msgstr ""
+
+#: include/options/color.php:1836
+msgid "Opening Hour Divider Color"
+msgstr ""
+
+#: include/options/color.php:1842
+msgid "Personnel Grid Title"
+msgstr ""
+
+#: include/options/color.php:1848
+msgid "Personnel Grid Position"
+msgstr ""
+
+#: include/options/color.php:1854
+msgid "Personnel Grid Divider"
+msgstr ""
+
+#: include/options/color.php:1860
+msgid "Personnel Grid Frame Background"
+msgstr ""
+
+#: include/options/color.php:1866
+msgid "Personnel Modern Title"
+msgstr ""
+
+#: include/options/color.php:1872
+msgid "Personnel Modern Position"
+msgstr ""
+
+#: include/options/color.php:1882
+msgid "Element P,S,T"
+msgstr ""
+
+#: include/options/color.php:1886
+msgid "Promo Box Item Title"
+msgstr ""
+
+#: include/options/color.php:1892
+msgid "Promo Box Content Border"
+msgstr ""
+
+#: include/options/color.php:1898
+msgid "Post Slider Title Color"
+msgstr ""
+
+#: include/options/color.php:1904
+msgid "Post Slider Info Color"
+msgstr ""
+
+#: include/options/color.php:1910 include/options/color.php:1916
+#: include/options/color.php:1922
+msgid "Skill Bar Title Color"
+msgstr ""
+
+#: include/options/color.php:1928
+msgid "Skill Bar Progress Color"
+msgstr ""
+
+#: include/options/color.php:1934
+msgid "Slider Outer Navigation Color"
+msgstr ""
+
+#: include/options/color.php:1941
+msgid "Slider Outer Navigation Background"
+msgstr ""
+
+#: include/options/color.php:1947
+msgid "Slider Control Navigation Color"
+msgstr ""
+
+#: include/options/color.php:1954
+msgid "Social Share Icon Color"
+msgstr ""
+
+#: include/options/color.php:1960
+msgid "Social Share Divider Color"
+msgstr ""
+
+#: include/options/color.php:1966
+msgid "Social Share Text Color"
+msgstr ""
+
+#: include/options/color.php:1972 include/options/color.php:1978
+msgid "Stunning Text Title Color"
+msgstr ""
+
+#: include/options/color.php:1984
+msgid "Tab Title Color"
+msgstr ""
+
+#: include/options/color.php:1990
+msgid "Tab Title Background Color"
+msgstr ""
+
+#: include/options/color.php:1997
+msgid "Tab Title Border Color"
+msgstr ""
+
+#: include/options/color.php:2003
+msgid "Tab Title Hover Bar Color"
+msgstr ""
+
+#: include/options/color.php:2009
+msgid "Tab Title Active Color"
+msgstr ""
+
+#: include/options/color.php:2015
+msgid "Tab Title Active Background Color"
+msgstr ""
+
+#: include/options/color.php:2022
+msgid "Table Head Background Color"
+msgstr ""
+
+#: include/options/color.php:2028
+msgid "Table Head Text Color"
+msgstr ""
+
+#: include/options/color.php:2034
+msgid "Table Odd Row Background Color"
+msgstr ""
+
+#: include/options/color.php:2040
+msgid "Table Odd Row Text Color"
+msgstr ""
+
+#: include/options/color.php:2046
+msgid "Table Even Row Background Color"
+msgstr ""
+
+#: include/options/color.php:2052
+msgid "Table Even Row Text Color"
+msgstr ""
+
+#: include/options/color.php:2058
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: include/options/color.php:2064
+msgid "Testimonial Content Color"
+msgstr ""
+
+#: include/options/color.php:2070
+msgid "Testimonial Author Color"
+msgstr ""
+
+#: include/options/color.php:2076
+msgid "Testimonial Rating Color"
+msgstr ""
+
+#: include/options/color.php:2082
+msgid "Testimonial Position Color"
+msgstr ""
+
+#: include/options/color.php:2088
+msgid "Testimonial Quote Color"
+msgstr ""
+
+#: include/options/color.php:2094
+msgid "Title Item's Title Color"
+msgstr ""
+
+#: include/options/color.php:2100
+msgid "Title Item's Caption Color"
+msgstr ""
+
+#: include/options/color.php:2110
+msgid "Woocommerce"
+msgstr ""
+
+#: include/options/color.php:2114
+msgid "Woocommerce Theme Color"
+msgstr ""
+
+#: include/options/color.php:2123
+msgid "Woocommerce Price Color"
+msgstr ""
+
+#: include/options/color.php:2129
+msgid "Woocommerce Price Line Through Color"
+msgstr ""
+
+#: include/options/color.php:2135
+msgid "Woocommerce Button Background Hover Color"
+msgstr ""
+
+#: include/options/color.php:2142
+msgid "Woocommerce Button Text Color"
+msgstr ""
+
+#: include/options/color.php:2152
+msgid "Woocommerce Button Text Hover Color"
+msgstr ""
+
+#: include/options/color.php:2159
+msgid "Woocommerce Input Background Color"
+msgstr ""
+
+#: include/options/color.php:2167
+msgid "Product Item Title Color"
+msgstr ""
+
+#: include/options/color.php:2173
+msgid "Product Item Title Hover Color"
+msgstr ""
+
+#: include/options/color.php:2179
+msgid "Product Item View Detail Text"
+msgstr ""
+
+#: include/options/color.php:2186
+msgid "Product Item View Detail Background"
+msgstr ""
+
+#: include/options/color.php:2193
+msgid "Product Item Add To Cart Text"
+msgstr ""
+
+#: include/options/color.php:2202
+msgid "Product Item Add To Cart Background"
+msgstr ""
+
+#: include/options/color.php:2211
+msgid "Widget Price Filter Bar Background"
+msgstr ""
+
+#: include/options/color.php:2217
+msgid "Widget Price Filter Range Background"
+msgstr ""
+
+#: include/options/color.php:2223
+msgid "Widget Price Filter Handle Background"
+msgstr ""
+
+#: include/options/general.php:48
+msgid "General"
+msgstr ""
+
+#: include/options/general.php:61 include/options/general.php:197
+#: include/options/general.php:559
+msgid "Full"
+msgstr ""
+
+#: include/options/general.php:62 include/options/general.php:389
+msgid "Boxed"
+msgstr ""
+
+#: include/options/general.php:66
+msgid "Box Layout Top/Bottom Margin"
+msgstr ""
+
+#: include/options/general.php:76
+msgid "Body Magin ( Frame Spaces )"
+msgstr ""
+
+#: include/options/general.php:84
+msgid "This value will be automatically omitted for side header style."
+msgstr ""
+
+#: include/options/general.php:87 include/options/general.php:112
+msgid "Background Type"
+msgstr ""
+
+#: include/options/general.php:91
+msgid "Image"
+msgstr ""
+
+#: include/options/general.php:92
+msgid "Pattern"
+msgstr ""
+
+#: include/options/general.php:97
+msgid "Background Image"
+msgstr ""
+
+#: include/options/general.php:104
+msgid "Background Image Opacity"
+msgstr ""
+
+#: include/options/general.php:121
+msgid "Enable Boxed Border"
+msgstr ""
+
+#: include/options/general.php:127
+msgid "Item Left/Right Spaces"
+msgstr ""
+
+#: include/options/general.php:140
+msgid "Container Width"
+msgstr ""
+
+#: include/options/general.php:149
+msgid "Container Padding"
+msgstr ""
+
+#: include/options/general.php:160
+msgid "Sidebar Width"
+msgstr ""
+
+#: include/options/general.php:168
+msgid "Both Sidebar Width"
+msgstr ""
+
+#: include/options/general.php:180
+msgid "Top Bar"
+msgstr ""
+
+#: include/options/general.php:184
+msgid "Enable Top Bar"
+msgstr ""
+
+#: include/options/general.php:188
+msgid "Enable Top Bar On Mobile"
+msgstr ""
+
+#: include/options/general.php:193
+msgid "Top Bar Width"
+msgstr ""
+
+#: include/options/general.php:196 include/options/general.php:558
+msgid "Boxed ( Within Container )"
+msgstr ""
+
+#: include/options/general.php:203
+msgid "Top Bar Width Pixel"
+msgstr ""
+
+#: include/options/general.php:211
+msgid "Top Bar Full ( Left/Right ) Padding"
+msgstr ""
+
+#: include/options/general.php:221
+msgid "Top Bar Left Text"
+msgstr ""
+
+#: include/options/general.php:226
+msgid "Top Bar Right Text"
+msgstr ""
+
+#: include/options/general.php:231
+msgid "Top Bar Top Padding"
+msgstr ""
+
+#: include/options/general.php:241
+msgid "Top Bar Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:251
+msgid "Top Bar Text Size"
+msgstr ""
+
+#: include/options/general.php:259
+msgid "Top Bar Bottom Border"
+msgstr ""
+
+#: include/options/general.php:273
+msgid "Top Bar Social"
+msgstr ""
+
+#: include/options/general.php:276
+msgid "Enable Top Bar Social"
+msgstr ""
+
+#: include/options/general.php:281
+msgid "Top Bar Social Delicious Link"
+msgstr ""
+
+#: include/options/general.php:286
+msgid "Top Bar Social Email Link"
+msgstr ""
+
+#: include/options/general.php:291
+msgid "Top Bar Social Deviantart Link"
+msgstr ""
+
+#: include/options/general.php:296
+msgid "Top Bar Social Digg Link"
+msgstr ""
+
+#: include/options/general.php:301
+msgid "Top Bar Social Facebook Link"
+msgstr ""
+
+#: include/options/general.php:306
+msgid "Top Bar Social Flickr Link"
+msgstr ""
+
+#: include/options/general.php:311
+msgid "Top Bar Social Google Plus Link"
+msgstr ""
+
+#: include/options/general.php:316
+msgid "Top Bar Social Lastfm Link"
+msgstr ""
+
+#: include/options/general.php:321
+msgid "Top Bar Social Linkedin Link"
+msgstr ""
+
+#: include/options/general.php:326
+msgid "Top Bar Social Pinterest Link"
+msgstr ""
+
+#: include/options/general.php:331
+msgid "Top Bar Social RSS Link"
+msgstr ""
+
+#: include/options/general.php:336
+msgid "Top Bar Social Skype Link"
+msgstr ""
+
+#: include/options/general.php:341
+msgid "Top Bar Social Stumbleupon Link"
+msgstr ""
+
+#: include/options/general.php:346
+msgid "Top Bar Social Tumblr Link"
+msgstr ""
+
+#: include/options/general.php:351
+msgid "Top Bar Social Twitter Link"
+msgstr ""
+
+#: include/options/general.php:356
+msgid "Top Bar Social Vimeo Link"
+msgstr ""
+
+#: include/options/general.php:361
+msgid "Top Bar Social Youtube Link"
+msgstr ""
+
+#: include/options/general.php:366
+msgid "Top Bar Social Instagram Link"
+msgstr ""
+
+#: include/options/general.php:371
+msgid "Top Bar Social Snapchat Link"
+msgstr ""
+
+#: include/options/general.php:384
+msgid "Header Style"
+msgstr ""
+
+#: include/options/general.php:387 include/options/general.php:1248
+msgid "Plain"
+msgstr ""
+
+#: include/options/general.php:388
+msgid "Bar"
+msgstr ""
+
+#: include/options/general.php:390
+msgid "Side Menu"
+msgstr ""
+
+#: include/options/general.php:391
+msgid "Side Menu Toggle"
+msgstr ""
+
+#: include/options/general.php:396
+msgid "Header Plain Style"
+msgstr ""
+
+#: include/options/general.php:409
+msgid "Plain Header Bottom Border"
+msgstr ""
+
+#: include/options/general.php:419
+msgid "Header Bar Style"
+msgstr ""
+
+#: include/options/general.php:431
+msgid "Header/Navigation Background Style"
+msgstr ""
+
+#: include/options/general.php:434
+msgid "Solid"
+msgstr ""
+
+#: include/options/general.php:435
+msgid "Transparent"
+msgstr ""
+
+#: include/options/general.php:441 include/options/general.php:477
+msgid "Top Bar Background Opacity"
+msgstr ""
+
+#: include/options/general.php:449
+msgid "Header Background Opacity"
+msgstr ""
+
+#: include/options/general.php:457
+msgid "Navigation Background Opacity"
+msgstr ""
+
+#: include/options/general.php:465
+msgid "Header Boxed Style"
+msgstr ""
+
+#: include/options/general.php:485
+msgid "Top Bar Background Extend ( Bottom )"
+msgstr ""
+
+#: include/options/general.php:495
+msgid "Header Top Margin"
+msgstr ""
+
+#: include/options/general.php:505
+msgid "Header Side Style"
+msgstr ""
+
+#: include/options/general.php:520
+msgid "Header Side Text Align"
+msgstr ""
+
+#: include/options/general.php:527
+msgid "Header Side Toggle Style"
+msgstr ""
+
+#: include/options/general.php:538
+msgid "Header Side Toggle Menu Type"
+msgstr ""
+
+#: include/options/general.php:541 include/options/general.php:831
+msgid "Left Slide Menu"
+msgstr ""
+
+#: include/options/general.php:542 include/options/general.php:832
+msgid "Right Slide Menu"
+msgstr ""
+
+#: include/options/general.php:543 include/options/general.php:833
+msgid "Overlay Menu"
+msgstr ""
+
+#: include/options/general.php:549
+msgid "Display Logo"
+msgstr ""
+
+#: include/options/general.php:555
+msgid "Header Width"
+msgstr ""
+
+#: include/options/general.php:565 include/options/general.php:643
+msgid "Header Width Pixel"
+msgstr ""
+
+#: include/options/general.php:573
+msgid "Header Full ( Left/Right ) Padding"
+msgstr ""
+
+#: include/options/general.php:583
+msgid "Header Frame Radius"
+msgstr ""
+
+#: include/options/general.php:592
+msgid "Header Content ( Left/Right ) Padding"
+msgstr ""
+
+#: include/options/general.php:603 include/options/general.php:615
+msgid "Navigation Text Top Padding"
+msgstr ""
+
+#: include/options/general.php:627
+msgid "Navigation Text Right Spaces"
+msgstr ""
+
+#: include/options/general.php:637
+msgid "Navigation Slide Bar"
+msgstr ""
+
+#: include/options/general.php:655
+msgid "Header Side Padding"
+msgstr ""
+
+#: include/options/general.php:667
+msgid "Navigation Text Top / Bottom Spaces"
+msgstr ""
+
+#: include/options/general.php:677
+msgid "Header Right Text"
+msgstr ""
+
+#: include/options/general.php:682
+msgid "Header Right Text Top Padding"
+msgstr ""
+
+#: include/options/general.php:696 include/options/general.php:699
+msgid "Logo"
+msgstr ""
+
+#: include/options/general.php:703
+msgid "Mobile Logo"
+msgstr ""
+
+#: include/options/general.php:705
+msgid "Leave this option blank to use the same logo."
+msgstr ""
+
+#: include/options/general.php:708
+msgid "Logo Top Padding"
+msgstr ""
+
+#: include/options/general.php:715 include/options/general.php:725
+msgid "This option will be omitted on splitted menu option."
+msgstr ""
+
+#: include/options/general.php:718
+msgid "Logo Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:728
+msgid "Logo Left Padding"
+msgstr ""
+
+#: include/options/general.php:733 include/options/general.php:783
+msgid "Leave this field blank for default value."
+msgstr ""
+
+#: include/options/general.php:736
+msgid "Max Logo Width"
+msgstr ""
+
+#: include/options/general.php:747
+msgid "Navigation"
+msgstr ""
+
+#: include/options/general.php:750
+msgid "Main Navigation Top Padding"
+msgstr ""
+
+#: include/options/general.php:760
+msgid "Main Navigation Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:769
+msgid "Main Navigation Item Right Padding"
+msgstr ""
+
+#: include/options/general.php:778
+msgid "Main Navigation Wrap Right Padding"
+msgstr ""
+
+#: include/options/general.php:786
+msgid "Enable Main Navigation Submenu Indicator"
+msgstr ""
+
+#: include/options/general.php:791
+msgid "Enable Main Navigation Search"
+msgstr ""
+
+#: include/options/general.php:796
+msgid "Enable Main Navigation Cart ( Woocommerce )"
+msgstr ""
+
+#: include/options/general.php:799
+msgid "The icon only shows if the woocommerce plugin is activated"
+msgstr ""
+
+#: include/options/general.php:802
+msgid "Enable Main Navigation Right Button"
+msgstr ""
+
+#: include/options/general.php:805
+msgid "This option will be ignored on header side style"
+msgstr ""
+
+#: include/options/general.php:808
+msgid "Main Navigation Right Button Text"
+msgstr ""
+
+#: include/options/general.php:810
+msgid "Buy Now"
+msgstr ""
+
+#: include/options/general.php:814
+msgid "Main Navigation Right Button Link"
+msgstr ""
+
+#: include/options/general.php:819
+msgid "Main Navigation Right Button Link Target"
+msgstr ""
+
+#: include/options/general.php:822
+msgid "Current Screen"
+msgstr ""
+
+#: include/options/general.php:823
+msgid "New Window"
+msgstr ""
+
+#: include/options/general.php:828
+msgid "Secondary/Mobile Menu Type"
+msgstr ""
+
+#: include/options/general.php:838
+msgid "Secondary/Mobile Menu Style"
+msgstr ""
+
+#: include/options/general.php:841
+msgid "Hamburger With Border"
+msgstr ""
+
+#: include/options/general.php:842
+msgid "Hamburger"
+msgstr ""
+
+#: include/options/general.php:851
+msgid "Fixed Navigation"
+msgstr ""
+
+#: include/options/general.php:855
+msgid "Enable Fixed Navigation Bar"
+msgstr ""
+
+#: include/options/general.php:860
+msgid "Enable Logo on Fixed Navigation Bar"
+msgstr ""
+
+#: include/options/general.php:866
+msgid "Fixed Navigation Max Logo Width"
+msgstr ""
+
+#: include/options/general.php:877
+msgid "Fixed Navigation Logo Top Padding"
+msgstr ""
+
+#: include/options/general.php:887
+msgid "Fixed Navigation Logo Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:897
+msgid "Fixed Navigation Top Padding"
+msgstr ""
+
+#: include/options/general.php:909
+msgid "Fixed Navigation Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:919
+msgid "Fixed Navigation Anchor Offset ( Fixed Navigation Height )"
+msgstr ""
+
+#: include/options/general.php:935
+msgid "Default Page Title Style"
+msgstr ""
+
+#: include/options/general.php:946
+msgid "Default Page Title Alignment"
+msgstr ""
+
+#: include/options/general.php:952
+msgid "Default Page Title Top Padding"
+msgstr ""
+
+#: include/options/general.php:962
+msgid "Default Page Title Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:972
+msgid "Default Page Caption Top Margin"
+msgstr ""
+
+#: include/options/general.php:982
+msgid "Default Page Title Font Transform"
+msgstr ""
+
+#: include/options/general.php:996
+msgid "Default Page Title Font Size"
+msgstr ""
+
+#: include/options/general.php:1004
+msgid "Default Page Title Font Weight"
+msgstr ""
+
+#: include/options/general.php:1008
+msgid ""
+"Eg. lighter, bold, normal, 300, 400, 600, 700, 800. Leave this field blank "
+"for default value (700)."
+msgstr ""
+
+#: include/options/general.php:1011
+msgid "Default Page Title Letter Spacing"
+msgstr ""
+
+#: include/options/general.php:1021
+msgid "Default Page Caption Font Size"
+msgstr ""
+
+#: include/options/general.php:1029
+msgid "Default Page Caption Font Weight"
+msgstr ""
+
+#: include/options/general.php:1033
+msgid ""
+"Eg. lighter, bold, normal, 300, 400, 600, 700, 800. Leave this field blank "
+"for default value (400)."
+msgstr ""
+
+#: include/options/general.php:1036
+msgid "Default Page Caption Letter Spacing"
+msgstr ""
+
+#: include/options/general.php:1046
+msgid "Default Page Title Background Overlay Opacity"
+msgstr ""
+
+#: include/options/general.php:1060
+msgid "Default Page Title Background"
+msgstr ""
+
+#: include/options/general.php:1066
+msgid "Default Portfolio Title Background"
+msgstr ""
+
+#: include/options/general.php:1072
+msgid "Default Personnel Title Background"
+msgstr ""
+
+#: include/options/general.php:1078
+msgid "Default Search Title Background"
+msgstr ""
+
+#: include/options/general.php:1084
+msgid "Default Archive Title Background"
+msgstr ""
+
+#: include/options/general.php:1090
+msgid "Default 404 Background"
+msgstr ""
+
+#: include/options/general.php:1096
+msgid "Default 404 Background Opacity"
+msgstr ""
+
+#: include/options/general.php:1111
+msgid "Default Blog Title Style"
+msgstr ""
+
+#: include/options/general.php:1123
+msgid "Default Blog Title Top Padding"
+msgstr ""
+
+#: include/options/general.php:1133
+msgid "Default Blog Title Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:1143
+msgid "Default Blog Feature Image Location"
+msgstr ""
+
+#: include/options/general.php:1154
+msgid "Default Blog Title Background Image"
+msgstr ""
+
+#: include/options/general.php:1161
+msgid "Default Blog Title Background Overlay Opacity"
+msgstr ""
+
+#: include/options/general.php:1173
+msgid "Blog Style"
+msgstr ""
+
+#: include/options/general.php:1176
+msgid "Single Blog Sidebar ( Default )"
+msgstr ""
+
+#: include/options/general.php:1183
+msgid "Single Blog Sidebar Left ( Default )"
+msgstr ""
+
+#: include/options/general.php:1190
+msgid "Single Blog Sidebar Right ( Default )"
+msgstr ""
+
+#: include/options/general.php:1197
+msgid "Single Blog Max Content Width ( No sidebar layout )"
+msgstr ""
+
+#: include/options/general.php:1205
+msgid "Single Blog Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1211 include/options/general.php:1405
+msgid "Enable Blog Date Feature"
+msgstr ""
+
+#: include/options/general.php:1216
+msgid "Enable Year on Blog Date Feature"
+msgstr ""
+
+#: include/options/general.php:1222
+msgid "Meta Option"
+msgstr ""
+
+#: include/options/general.php:1225 include/options/general.php:1414
+msgid "Date"
+msgstr ""
+
+#: include/options/general.php:1226 include/options/general.php:1415
+msgid "Author"
+msgstr ""
+
+#: include/options/general.php:1229 include/options/general.php:1418
+msgid "Comment"
+msgstr ""
+
+#: include/options/general.php:1230 include/options/general.php:1419
+msgid "Comment Number"
+msgstr ""
+
+#: include/options/general.php:1235
+msgid "Enable Single Blog Author"
+msgstr ""
+
+#: include/options/general.php:1240
+msgid "Enable Single Blog Navigation"
+msgstr ""
+
+#: include/options/general.php:1245
+msgid "Pagination Style"
+msgstr ""
+
+#: include/options/general.php:1249
+msgid "Rectangle"
+msgstr ""
+
+#: include/options/general.php:1250
+msgid "Rectangle Border"
+msgstr ""
+
+#: include/options/general.php:1251
+msgid "Round"
+msgstr ""
+
+#: include/options/general.php:1252
+msgid "Round Border"
+msgstr ""
+
+#: include/options/general.php:1253
+msgid "Circle"
+msgstr ""
+
+#: include/options/general.php:1254
+msgid "Circle Border"
+msgstr ""
+
+#: include/options/general.php:1259
+msgid "Pagination Alignment"
+msgstr ""
+
+#: include/options/general.php:1268
+msgid "Blog Social Share"
+msgstr ""
+
+#: include/options/general.php:1271
+msgid "Enable Single Blog Share"
+msgstr ""
+
+#: include/options/general.php:1276
+msgid "Enable Single Blog Share Count"
+msgstr ""
+
+#: include/options/general.php:1281
+msgid "Facebook"
+msgstr ""
+
+#: include/options/general.php:1286
+msgid "Linkedin"
+msgstr ""
+
+#: include/options/general.php:1291
+msgid "Google Plus"
+msgstr ""
+
+#: include/options/general.php:1296
+msgid "Pinterest"
+msgstr ""
+
+#: include/options/general.php:1301
+msgid "Stumbleupon"
+msgstr ""
+
+#: include/options/general.php:1306
+msgid "Twitter"
+msgstr ""
+
+#: include/options/general.php:1311
+msgid "Email"
+msgstr ""
+
+#: include/options/general.php:1319
+msgid "Search/Archive"
+msgstr ""
+
+#: include/options/general.php:1322
+msgid "Archive Blog Sidebar"
+msgstr ""
+
+#: include/options/general.php:1329
+msgid "Archive Blog Sidebar Left"
+msgstr ""
+
+#: include/options/general.php:1336
+msgid "Archive Blog Sidebar Right"
+msgstr ""
+
+#: include/options/general.php:1343
+msgid "Archive Blog Style"
+msgstr ""
+
+#: include/options/general.php:1360
+msgid "Archive Blog Full Alignment"
+msgstr ""
+
+#: include/options/general.php:1364 include/options/general.php:1714
+msgid "Left"
+msgstr ""
+
+#: include/options/general.php:1365 include/options/general.php:1847
+msgid "Center"
+msgstr ""
+
+#: include/options/general.php:1370
+msgid "Archive Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1375
+msgid "Archive Show Thumbnail"
+msgstr ""
+
+#: include/options/general.php:1381
+msgid "Archive Column Size"
+msgstr ""
+
+#: include/options/general.php:1388
+msgid "Archive Excerpt Type"
+msgstr ""
+
+#: include/options/general.php:1391 include/options/general.php:1753
+msgid "Specify Number"
+msgstr ""
+
+#: include/options/general.php:1392 include/options/general.php:1754
+msgid "Show All ( use <!--more--> tag to cut the content )"
+msgstr ""
+
+#: include/options/general.php:1398
+msgid "Archive Excerpt Number"
+msgstr ""
+
+#: include/options/general.php:1411
+msgid "Archive Meta Option"
+msgstr ""
+
+#: include/options/general.php:1424
+msgid "Archive Show Read More Button"
+msgstr ""
+
+#: include/options/general.php:1433
+msgid "Woocommerce Style"
+msgstr ""
+
+#: include/options/general.php:1437
+msgid "Woocommerce Archive Sidebar"
+msgstr ""
+
+#: include/options/general.php:1444
+msgid "Woocommerce Archive Sidebar Left"
+msgstr ""
+
+#: include/options/general.php:1451
+msgid "Woocommerce Archive Sidebar Right"
+msgstr ""
+
+#: include/options/general.php:1458
+msgid "Woocommerce Archive Column Size"
+msgstr ""
+
+#: include/options/general.php:1464
+msgid "Woocommerce Archive Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1470
+msgid "Woocommerce Related Product Column Size"
+msgstr ""
+
+#: include/options/general.php:1476
+msgid "Woocommerce Related Product Num Fetch"
+msgstr ""
+
+#: include/options/general.php:1482
+msgid "Woocommerce Related Product Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1491
+msgid "Portfolio Style"
+msgstr ""
+
+#: include/options/general.php:1494
+msgid "Portfolio Slug (Permalink)"
+msgstr ""
+
+#: include/options/general.php:1497 include/options/general.php:1503
+#: include/options/general.php:1509 include/options/general.php:1778
+#: include/options/general.php:1784
+msgid ""
+"Please save the \"Settings > Permalink\" area once after made a changes to "
+"this field."
+msgstr ""
+
+#: include/options/general.php:1500
+msgid "Portfolio Category Slug (Permalink)"
+msgstr ""
+
+#: include/options/general.php:1506
+msgid "Portfolio Tag Slug (Permalink)"
+msgstr ""
+
+#: include/options/general.php:1512
+msgid "Enable Single Portfolio Navigation"
+msgstr ""
+
+#: include/options/general.php:1517
+msgid "Enable Single Portfolio Navigation Within Same Tag"
+msgstr ""
+
+#: include/options/general.php:1523
+msgid "Portfolio Hover Icon (Link)"
+msgstr ""
+
+#: include/options/general.php:1529
+msgid "Portfolio Hover Icon (Video)"
+msgstr ""
+
+#: include/options/general.php:1535
+msgid "Portfolio Hover Icon (Image)"
+msgstr ""
+
+#: include/options/general.php:1541
+msgid "Portfolio Hover Icon Size"
+msgstr ""
+
+#: include/options/general.php:1548
+msgid "Enable Related Portfolio"
+msgstr ""
+
+#: include/options/general.php:1553
+msgid "Related Portfolio Style"
+msgstr ""
+
+#: include/options/general.php:1556
+msgid "Grid"
+msgstr ""
+
+#: include/options/general.php:1557
+msgid "Modern"
+msgstr ""
+
+#: include/options/general.php:1562
+msgid "Enable Portfolio Tag"
+msgstr ""
+
+#: include/options/general.php:1568
+msgid "Related Portfolio Column Size"
+msgstr ""
+
+#: include/options/general.php:1575
+msgid "Related Portfolio Num Fetch"
+msgstr ""
+
+#: include/options/general.php:1582
+msgid "Related Portfolio Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1589
+msgid "Related Portfolio Thumbnail Hover Style"
+msgstr ""
+
+#: include/options/general.php:1612
+msgid "Related Portfolio Num Excerpt"
+msgstr ""
+
+#: include/options/general.php:1619
+msgid "Portfolio Title Font Size"
+msgstr ""
+
+#: include/options/general.php:1625
+msgid "Portfolio Title Font Weight"
+msgstr ""
+
+#: include/options/general.php:1628 include/options/typography.php:155
+msgid "Eg. lighter, bold, normal, 300, 400, 600, 700, 800"
+msgstr ""
+
+#: include/options/general.php:1634
+msgid "Portfolio Archive"
+msgstr ""
+
+#: include/options/general.php:1637
+msgid "Archive Portfolio Sidebar"
+msgstr ""
+
+#: include/options/general.php:1644
+msgid "Archive Portfolio Sidebar Left"
+msgstr ""
+
+#: include/options/general.php:1651
+msgid "Archive Portfolio Sidebar Right"
+msgstr ""
+
+#: include/options/general.php:1658
+msgid "Archive Portfolio Style"
+msgstr ""
+
+#: include/options/general.php:1673
+msgid "Archive Portfolio Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1678
+msgid "Archive Portfolio Grid Text Align"
+msgstr ""
+
+#: include/options/general.php:1685
+msgid "Archive Portfolio Grid Content Style"
+msgstr ""
+
+#: include/options/general.php:1688
+msgid "Normal"
+msgstr ""
+
+#: include/options/general.php:1689
+msgid "With Frame"
+msgstr ""
+
+#: include/options/general.php:1690
+msgid "With Bottom Border"
+msgstr ""
+
+#: include/options/general.php:1696
+msgid "Archive Enable Portfolio Tag"
+msgstr ""
+
+#: include/options/general.php:1702
+msgid "Archive Portfolio Medium Thumbnail Size"
+msgstr ""
+
+#: include/options/general.php:1711
+msgid "Archive Portfolio Medium Thumbnail Style"
+msgstr ""
+
+#: include/options/general.php:1715
+msgid "Right"
+msgstr ""
+
+#: include/options/general.php:1716
+msgid "Switch ( Between Left and Right )"
+msgstr ""
+
+#: include/options/general.php:1722
+msgid "Archive Portfolio Hover Style"
+msgstr ""
+
+#: include/options/general.php:1743
+msgid "Archive Portfolio Column Size"
+msgstr ""
+
+#: include/options/general.php:1750
+msgid "Archive Portfolio Excerpt Type"
+msgstr ""
+
+#: include/options/general.php:1755
+msgid "Disable Exceprt"
+msgstr ""
+
+#: include/options/general.php:1761
+msgid "Archive Portfolio Excerpt Number"
+msgstr ""
+
+#: include/options/general.php:1772
+msgid "Personnel Style"
+msgstr ""
+
+#: include/options/general.php:1775
+msgid "Personnel Slug (Permalink)"
+msgstr ""
+
+#: include/options/general.php:1781
+msgid "Personnel Category Slug (Permalink)"
+msgstr ""
+
+#: include/options/general.php:1794
+msgid "Fixed Footer"
+msgstr ""
+
+#: include/options/general.php:1804
+msgid "Footer Top Padding"
+msgstr ""
+
+#: include/options/general.php:1814
+msgid "Footer Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:1824
+msgid "Footer Style"
+msgstr ""
+
+#: include/options/general.php:1844
+msgid "Copyright Style"
+msgstr ""
+
+#: include/options/general.php:1848
+msgid "Left & Right"
+msgstr ""
+
+#: include/options/general.php:1853
+msgid "Copyright Top Padding"
+msgstr ""
+
+#: include/options/general.php:1863
+msgid "Copyright Bottom Padding"
+msgstr ""
+
+#: include/options/general.php:1873
+msgid "Copyright Font Letter Spacing"
+msgstr ""
+
+#: include/options/general.php:1882
+msgid "Copyright Text Transform"
+msgstr ""
+
+#: include/options/general.php:1896
+msgid "Copyright Text"
+msgstr ""
+
+#: include/options/general.php:1902
+msgid "Copyright Left"
+msgstr ""
+
+#: include/options/general.php:1908
+msgid "Copyright Right"
+msgstr ""
+
+#: include/options/general.php:1914
+msgid "Enable Back To Top Button"
+msgstr ""
+
+#: include/options/plugin-settings.php:27
+#: include/options/plugin-settings.php:167
+msgid "Miscellaneous"
+msgstr ""
+
+#: include/options/plugin-settings.php:34
+msgid "Thumbnail Sizing"
+msgstr ""
+
+#: include/options/plugin-settings.php:39
+msgid "Enable Srcset"
+msgstr ""
+
+#: include/options/plugin-settings.php:42
+msgid ""
+"Enable this option will improve the performance by resizing the image based "
+"on the screensize. Please be cautious that this will generate multiple "
+"images on your server."
+msgstr ""
+
+#: include/options/plugin-settings.php:45
+msgid "Add Thumbnail Size"
+msgstr ""
+
+#: include/options/plugin-settings.php:54
+msgid "Plugins"
+msgstr ""
+
+#: include/options/plugin-settings.php:58
+msgid "Lightbox Type"
+msgstr ""
+
+#: include/options/plugin-settings.php:61
+msgid "ilightbox"
+msgstr ""
+
+#: include/options/plugin-settings.php:62
+msgid "Strip"
+msgstr ""
+
+#: include/options/plugin-settings.php:66
+msgid "iLightbox Skin"
+msgstr ""
+
+#: include/options/plugin-settings.php:69
+msgid "Dark"
+msgstr ""
+
+#: include/options/plugin-settings.php:70
+msgid "Light"
+msgstr ""
+
+#: include/options/plugin-settings.php:71
+msgid "Mac"
+msgstr ""
+
+#: include/options/plugin-settings.php:72
+msgid "Metro Black"
+msgstr ""
+
+#: include/options/plugin-settings.php:73
+msgid "Metro White"
+msgstr ""
+
+#: include/options/plugin-settings.php:74
+msgid "Parade"
+msgstr ""
+
+#: include/options/plugin-settings.php:75
+msgid "Smooth"
+msgstr ""
+
+#: include/options/plugin-settings.php:80
+msgid "Turn Image Link To Open In Lightbox"
+msgstr ""
+
+#: include/options/plugin-settings.php:88
+msgid "Custom Css/Js"
+msgstr ""
+
+#: include/options/plugin-settings.php:92
+msgid "Additional CSS ( without <style> tag )"
+msgstr ""
+
+#: include/options/plugin-settings.php:99
+msgid "Mobile CSS ( screen below 767px )"
+msgstr ""
+
+#: include/options/plugin-settings.php:106
+msgid "Additional Head Script ( without <script> tag )"
+msgstr ""
+
+#: include/options/plugin-settings.php:109
+msgid "Eg. For analytics"
+msgstr ""
+
+#: include/options/plugin-settings.php:112
+msgid "Additional Script ( without <script> tag )"
+msgstr ""
+
+#: include/options/plugin-settings.php:120
+msgid "Maintenance Mode"
+msgstr ""
+
+#: include/options/plugin-settings.php:123
+msgid "Enable Maintenance / Coming Soon Mode"
+msgstr ""
+
+#: include/options/plugin-settings.php:128
+msgid "Select Maintenance / Coming Soon Page"
+msgstr ""
+
+#: include/options/plugin-settings.php:137
+msgid "Preload"
+msgstr ""
+
+#: include/options/plugin-settings.php:140
+msgid "Enable Preload"
+msgstr ""
+
+#: include/options/plugin-settings.php:145
+msgid "Preload Image"
+msgstr ""
+
+#: include/options/plugin-settings.php:150
+msgid ""
+"Upload the image (.gif) you want to use as preload animation. You could "
+"search it online at https://www.google.com/search?q=loading+gif as well"
+msgstr ""
+
+#: include/options/plugin-settings.php:155
+msgid "Import / Export"
+msgstr ""
+
+#: include/options/plugin-settings.php:159
+msgid "Export Option"
+msgstr ""
+
+#: include/options/plugin-settings.php:163
+msgid ""
+"All Options(general/typography/color/miscellaneous) exclude widget, custom "
+"template"
+msgstr ""
+
+#: include/options/plugin-settings.php:164
+msgid "General Option"
+msgstr ""
+
+#: include/options/plugin-settings.php:165
+msgid "Typography Option"
+msgstr ""
+
+#: include/options/plugin-settings.php:166
+msgid "Color Option"
+msgstr ""
+
+#: include/options/plugin-settings.php:168
+msgid "Widget"
+msgstr ""
+
+#: include/options/plugin-settings.php:169
+msgid "Custom Page Builder Template"
+msgstr ""
+
+#: include/options/plugin-settings.php:174
+msgid "Import Option"
+msgstr ""
+
+#: include/options/typography.php:19
+msgid "Font Family"
+msgstr ""
+
+#: include/options/typography.php:22
+msgid "Heading Font"
+msgstr ""
+
+#: include/options/typography.php:33
+msgid "Navigation Font"
+msgstr ""
+
+#: include/options/typography.php:40
+msgid "Content Font"
+msgstr ""
+
+#: include/options/typography.php:49
+msgid "Info Font"
+msgstr ""
+
+#: include/options/typography.php:56
+msgid "Blog Info Font"
+msgstr ""
+
+#: include/options/typography.php:63
+msgid "Quote Font"
+msgstr ""
+
+#: include/options/typography.php:70
+msgid "Testimonial Font"
+msgstr ""
+
+#: include/options/typography.php:77
+msgid "Additional Font"
+msgstr ""
+
+#: include/options/typography.php:82 include/options/typography.php:90
+msgid "Additional font you want to include for custom css."
+msgstr ""
+
+#: include/options/typography.php:85
+msgid "Additional Font2"
+msgstr ""
+
+#: include/options/typography.php:97
+msgid "Font Size"
+msgstr ""
+
+#: include/options/typography.php:101
+msgid "H1 Size"
+msgstr ""
+
+#: include/options/typography.php:108
+msgid "H2 Size"
+msgstr ""
+
+#: include/options/typography.php:115
+msgid "H3 Size"
+msgstr ""
+
+#: include/options/typography.php:122
+msgid "H4 Size"
+msgstr ""
+
+#: include/options/typography.php:129
+msgid "H5 Size"
+msgstr ""
+
+#: include/options/typography.php:136
+msgid "H6 Size"
+msgstr ""
+
+#: include/options/typography.php:143
+msgid "Navigation Font Size"
+msgstr ""
+
+#: include/options/typography.php:150
+msgid "Navigation Font Weight"
+msgstr ""
+
+#: include/options/typography.php:158
+msgid "Navigation Font Letter Spacing"
+msgstr ""
+
+#: include/options/typography.php:165
+msgid "Navigation Text Transform"
+msgstr ""
+
+#: include/options/typography.php:178
+msgid "Content Size"
+msgstr ""
+
+#: include/options/typography.php:185
+msgid "Content Line Height"
+msgstr ""
+
+#: include/options/typography.php:196
+msgid "Font Uploader"
+msgstr ""
+
+#: include/options/typography.php:202
+msgid "Upload Fonts"
+msgstr ""
+
+#: include/utility.php:33
+msgid "at"
+msgstr ""
+
+#: include/utility.php:39
+msgid "Reply"
+msgstr ""
+
+#: include/utility.php:47
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: include/utility.php:52
+msgid "Edit"
+msgstr ""
+
+#: include/utility.php:163
+msgid "no comments"
+msgstr ""
+
+#: include/utility.php:164
+msgid "one comment"
+msgstr ""
+
+#: include/utility.php:165
+#, php-format
+msgid "% comments"
+msgstr ""
+
+#: searchform.php:6 searchform.php:13
+msgid "Search..."
+msgstr ""
+
+#: searchform.php:14
+msgid "Search"
+msgstr ""
+
+#: single.php:109
+msgid "About the author"
+msgstr ""
+
+#: single.php:124
+msgid "Prev"
+msgstr ""
+
+#: single.php:128
+msgid "Next"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:32
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/related.php:27
+msgid "Related products"
+msgstr ""
+
+#: woocommerce/woocommerce-settings.php:77
+msgid "Items : "
+msgstr ""
+
+#: woocommerce/woocommerce-settings.php:82
+msgid "Subtotal :"
+msgstr ""
+
+#: woocommerce/woocommerce-settings.php:87
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/woocommerce-settings.php:91
+msgid "Check Out"
+msgstr ""

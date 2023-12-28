@@ -1,0 +1,10 @@
+[11-Dec-2022 06:30:23 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[11-Dec-2022 06:30:27 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[09-Jun-2023 20:54:17 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[09-Jun-2023 20:54:21 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[12-Nov-2023 15:25:47 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[12-Nov-2023 15:25:53 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[19-Nov-2023 08:44:08 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[19-Nov-2023 08:44:15 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/Transport.php on line 3
+[23-Nov-2023 07:18:18 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/HTTP.php on line 13
+[23-Nov-2023 07:18:24 Europe/Helsinki] PHP Fatal error:  Class 'Requests_Exception' not found in /home/agencygrow/public_html/wp-includes/Requests/Exception/Transport.php on line 3

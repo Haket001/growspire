@@ -1,0 +1,72 @@
+[12-Nov-2023 15:46:59 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/comments.php on line 9
+[12-Nov-2023 15:47:01 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/agencygrow/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[12-Nov-2023 15:47:04 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/agencygrow/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[12-Nov-2023 15:47:08 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed.php on line 13
+[12-Nov-2023 15:47:14 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/agencygrow/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[12-Nov-2023 15:47:17 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/footer.php on line 9
+[12-Nov-2023 15:47:20 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/agencygrow/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[12-Nov-2023 15:47:22 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/header.php on line 9
+[12-Nov-2023 15:47:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/sidebar.php on line 9
+[19-Nov-2023 09:06:30 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/comments.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/comments.php on line 9
+[19-Nov-2023 09:06:33 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _e() in /home/agencygrow/public_html/wp-includes/theme-compat/embed-404.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed-404.php on line 14
+[19-Nov-2023 09:06:37 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function post_class() in /home/agencygrow/public_html/wp-includes/theme-compat/embed-content.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed-content.php on line 13
+[19-Nov-2023 09:06:39 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/agencygrow/public_html/wp-includes/theme-compat/embed.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/embed.php on line 13
+[19-Nov-2023 09:06:44 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function do_action() in /home/agencygrow/public_html/wp-includes/theme-compat/footer-embed.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/footer-embed.php on line 18
+[19-Nov-2023 09:06:48 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/footer.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/footer.php on line 9
+[19-Nov-2023 09:06:52 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function language_attributes() in /home/agencygrow/public_html/wp-includes/theme-compat/header-embed.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/header-embed.php on line 19
+[19-Nov-2023 09:06:56 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/header.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/header.php on line 9
+[19-Nov-2023 09:06:59 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Call to undefined function _deprecated_file() in /home/agencygrow/public_html/wp-includes/theme-compat/sidebar.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/theme-compat/sidebar.php on line 9

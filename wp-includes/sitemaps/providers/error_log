@@ -1,0 +1,6 @@
+[12-Nov-2023 15:44:58 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[12-Nov-2023 15:45:02 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[12-Nov-2023 15:45:09 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17
+[19-Nov-2023 09:03:58 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-posts.php on line 17
+[19-Nov-2023 09:04:02 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-taxonomies.php on line 17
+[19-Nov-2023 09:04:09 Europe/Helsinki] PHP Fatal error:  Class 'WP_Sitemaps_Provider' not found in /home/agencygrow/public_html/wp-includes/sitemaps/providers/class-wp-sitemaps-users.php on line 17

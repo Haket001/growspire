@@ -1,0 +1,12 @@
+[10-Dec-2022 00:54:43 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[12-Nov-2023 15:46:03 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
+[19-Nov-2023 09:05:03 Europe/Helsinki] PHP Fatal error:  Uncaught Error: Class 'ParagonIE_Sodium_Compat' not found in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/agencygrow/public_html/wp-includes/sodium_compat/lib/ristretto255.php on line 6
